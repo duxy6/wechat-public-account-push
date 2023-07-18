@@ -44,9 +44,9 @@ const USER_CONFIG = {
         // 在一起的日子
         { keyword: 'love_day', date: '2016-10-02' },
         // 订婚纪念日
-       // { keyword: 'Be_engaged_day', date: '2023-04-30' },
+       { keyword: 'Be_engaged_day', date: '2023-04-30' },
         // 登记纪念日
-       // { keyword: 'registration_day', date: '2023-06-21' },
+       { keyword: 'registration_day', date: '2023-06-21' }
       ],
     },
   ],
