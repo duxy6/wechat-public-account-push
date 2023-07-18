@@ -35,18 +35,18 @@ const USER_CONFIG = {
        //  {
        //    type: '生日', name: '李四', year: '1996', date: '05-20',
        //  },
-        {
-          type: '节日', name: '结婚日', year: '2023', date: '12-10',
-        },
+        //{
+        //  type: '节日', name: '结婚日', year: '2023', date: '12-10',
+        //},
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
         { keyword: 'love_day', date: '2016-10-02' },
         // 订婚纪念日
-        { keyword: 'Be_engaged_day', date: '2023-04-30' },
+       // { keyword: 'Be_engaged_day', date: '2023-04-30' },
         // 登记纪念日
-        { keyword: 'registration_day', date: '2023-06-21' },
+       // { keyword: 'registration_day', date: '2023-06-21' },
       ],
     },
   ],
