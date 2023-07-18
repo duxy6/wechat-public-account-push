@@ -29,14 +29,14 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '宝贝', year: '1997', date: '08-15',
+          type: '*生日', name: '老婆', year: '1997', date: '08-15',
         },
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
        //  {
        //    type: '生日', name: '李四', year: '1996', date: '05-20',
        //  },
         {
-          type: '节日', name: '订婚日', year: '2023', date: '04-30',
+          type: '节日', name: '结婚日', year: '2023', date: '12-10',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -47,8 +47,6 @@ const USER_CONFIG = {
         { keyword: 'Be_engaged_day', date: '2023-04-30' },
         // 登记纪念日
         { keyword: 'registration_day', date: '2023-06-21' },
-        // 结婚纪念日
-        { keyword: 'marry_day', date: '2023-12-10' }
       ],
     },
   ],
